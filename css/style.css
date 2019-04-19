@@ -29,5 +29,6 @@ header a {
 }
 
 figure .necklace {
+  border: 2px;
   border-width: medium;
 }
