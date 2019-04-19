@@ -25,9 +25,10 @@ header a {
   font-size: 2em;
   font-weight: bold;
   font-family: 'Libre Baskerville', serif;
-
+  border-bottom: 1px;
 }
 
 #necklace img {
+  
   border: 5px rgb(152,173,166) solid;
 }
