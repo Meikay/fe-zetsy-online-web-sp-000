@@ -27,4 +27,7 @@ header a {
   font-family: 'Libre Baskerville', serif;
 
 }
-/* rgb(152,173,166) solid*/
+
+figure .necklace {
+  border-width: medium;
+}
