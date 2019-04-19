@@ -26,6 +26,7 @@ header a {
   font-weight: bold;
   font-family: 'Libre Baskerville', serif;
   border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
 }
 
 #necklace img {
