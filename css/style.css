@@ -44,6 +44,10 @@ h2 {
   padding: 1px;
 }
 
+#press {
+  margin-bottom: 10%;
+}
+
 .flex-container {
   display: flex;
   flex-wrap: wrap;
@@ -52,5 +56,5 @@ h2 {
 
 footer p {
   float: right;
-  padding-bottom: 10%;
+  margin: 0 0 20px 0;
 }
