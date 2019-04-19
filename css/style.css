@@ -46,4 +46,5 @@ h2 {
 
 .flex-container {
   display: flex;
+  flex-wrap: wrap;
 }
