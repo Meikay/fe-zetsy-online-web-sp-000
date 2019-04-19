@@ -4,6 +4,10 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700');
 
 /*////////// Global Styles //////////*/
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 4em;
+}
 
 body {
 	background: #F3EBE9;
@@ -19,8 +23,5 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 {
-  font-family: 'Libre Baskerville', serif;
-  font-size: 4em;
-}
+
 /* rgb(152,173,166) solid*/
